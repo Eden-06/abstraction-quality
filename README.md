@@ -6,7 +6,7 @@ abstraction wrt. to tools and mappings.
 
 # Systemrequirements
 
-* Ruby Version 1.9.3 (or higher) [\[get here\]](https://www.ruby-lang.org/de/downloads/)
+* Ruby Version 2.5.0 (or higher) [\[get here\]](https://www.ruby-lang.org/de/downloads/)
 
 # Synopsis
 
