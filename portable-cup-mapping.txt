@@ -1,0 +1,7 @@
+size.large : can carry 1½ cups
+for.coffee : suitable for hot drinks
+for.tea : suitable for hot drinks
+material.plastic : made with PET
+material.plastic : contains Styrofoam
+
+

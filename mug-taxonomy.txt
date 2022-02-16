@@ -1,0 +1,8 @@
+size.small
+size.normal
+size.large
+for.espresso
+for.coffee
+for.tea
+material.plastic
+material.ceramic
