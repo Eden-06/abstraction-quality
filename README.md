@@ -25,6 +25,10 @@ set of tools and mapping of concepts of the abstractions to constructs in the
 tool. It will compute the generalized metrics, if multiple tools and mappings
 are provided (one mapping per tool).
 
+Recently, we have applied `aquality` to evaluate the generality and 
+appropriateness of a taxonomy with respect to a set of objects under study,
+whereas the taxonomy is the model and the objects under study are the tools.
+
 # Commandline Options
 
 | Argument           | Function                                                |
@@ -46,6 +50,12 @@ The following command will compute the laconicity, lucidity, completeness and so
 
 ```bash
  ruby aquality.rb model.txt tool.txt mapping.txt
+```
+
+The following command will compute the laconicity, lucidity, completeness and soundness of the given `mug-taxonomy.txt` with respect to the `portable-cup.txt` and the corresponding `portable-cup-mapping.txt`
+
+```bash
+ruby mug-taxonomy.txt portable-cup.txt portable-cup-mapping.txt
 ```
 
 # PIBA
